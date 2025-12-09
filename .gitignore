@@ -1,0 +1,8 @@
+student.txt
+README.md
+.vscode/
+*.exe
+*.o
+*.obj
+*.log
+build/
